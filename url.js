@@ -8,10 +8,15 @@
 
 
 const urls = [
-	'https://www.google.com/',
-	'https://www.youtube.com/',
-	'https://news.gamebase.com.tw/',
-	'https://www.8591.com.tw/',
-	'https://www.gamer.com.tw/'
+	'https://www.surveycake.com/s/Xbgkp',
+	'https://www.surveycake.com/s/ZLWMV',
+	'https://www.surveycake.com/s/BMamr',
+	'https://www.surveycake.com/s/Dz6mz',
+	'https://www.surveycake.com/s/Rx69y',
+	'https://www.surveycake.com/s/N06pG',
+	'https://www.surveycake.com/s/KN6rW,
+	'https://www.surveycake.com/s/xvKPy',
+	'https://www.surveycake.com/s/7B69N',
+	'https://www.surveycake.com/s/9p69O'
 	
 ];
