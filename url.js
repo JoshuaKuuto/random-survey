@@ -14,7 +14,6 @@ const urls = [
 	'https://www.surveycake.com/s/Dz6mz',
 	'https://www.surveycake.com/s/Rx69y',
 	'https://www.surveycake.com/s/N06pG',
-	'https://www.surveycake.com/s/KN6rW',
 	'https://www.surveycake.com/s/xvKPy',
 	'https://www.surveycake.com/s/7B69N',
 	'https://www.surveycake.com/s/9p69O'	
